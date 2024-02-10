@@ -146,7 +146,14 @@ which simplifies to:
 <li><b>chf_exp [MW/m2]</b>: This column represents the experimental critical heat flux (CHF) value, which is the point at which a heated surface experiences a rapid increase in temperature. It is measured in megawatts per square meter (MW/m²). This column serves as the target or dependent variable that you would want to predict based on the other features.</li><br>
 
 
->These features provide information about the characteristics of the system, such as its geometry, pressure, mass flux, dimensions, and experimental CHF value. They serve as input variables that can be used to build a predictive model for estimating the critical heat flux based on the given features.<br>
-    </ol>
+>These features provide information about the characteristics of the system, such as its geometry, pressure, mass flux, dimensions, and experimental CHF value. They serve as input variables that can be used to build a predictive model for estimating the critical heat flux based on the given features.<be>
+        </ol>
+        
+## Exploratory Data Analysis
+![image](https://github.com/Surendraprajapat18/Critical-Heat-Flux-Prediction/assets/97840357/b8f55597-5c01-4d0f-86a9-44122856b304)
+![image](https://github.com/Surendraprajapat18/Critical-Heat-Flux-Prediction/assets/97840357/8c5c8819-c06f-4ede-a599-646eacbdd312)
+
+
+    
 </font>
 </div>
